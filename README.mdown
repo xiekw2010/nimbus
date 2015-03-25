@@ -3,6 +3,10 @@ Nimbus is an iOS framework whose feature set grows only as fast as its documenta
 Getting Started
 ---------------
 
+`git submodule init`
+`git submodule update`
+
+
 - Visit the Nimbus website at [nimbuskit.info](http://nimbuskit.info).
 - [Add Nimbus to your project](http://wiki.nimbuskit.info/Add-Nimbus-to-your-project).
 - Follow Nimbus' development through its [version history](http://docs.nimbuskit.info/group___version-_history.html).
